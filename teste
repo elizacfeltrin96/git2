@@ -1,0 +1,3 @@
+class Whatever {
+  public int whatever;
+}
